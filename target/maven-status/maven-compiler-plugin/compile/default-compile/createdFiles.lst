@@ -1,0 +1,10 @@
+springjinq\entity\Car.class
+springjinq\repository\CarRepository.class
+springjinq\controller\CarController.class
+springjinq\config\DataInitializr.class
+springjinq\config\JinqProviderConficuration.class
+springjinq\query\CarRepositoryImpl.class
+springjinq\application\Application.class
+springjinq\config\BaseJinqRepositoryImpl.class
+springjinq\params\CarParams.class
+springjinq\repository\CarQueryRepository.class
